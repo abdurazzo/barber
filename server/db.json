@@ -1,0 +1,29 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name":"Шампунь для волос",
+            "img":"https://barbarossa.top/wp-content/uploads/2023/05/ozon1.jpg"
+        },
+        {
+            "id":"2",
+            "name":"Бальзам для бороды",
+            "img":"https://barbarossa.top/wp-content/uploads/2023/05/balm.png"
+        },
+        {
+            "id":"3",
+            "name":"Мыло для тела",
+            "img":"https://barbarossa.top/wp-content/uploads/2023/05/clay.png"
+        },
+        {
+            "id":"34",
+            "name":"Глина для волос",
+            "img":"https://barbarossa.top/wp-content/uploads/2023/05/clay.png"
+        },
+        {
+            "id":"6",
+            "name":"Помада для волос",
+            "img":"https://barbarossa.top/wp-content/uploads/2023/05/ozon3.jpg"
+        }
+    ]
+}   
